@@ -1,20 +1,19 @@
 {
-    "name": "client-server-repo",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
-        "start": "node index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/RubyRays/client-server-repo.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/RubyRays/client-server-repo/issues"
-    },
-    "homepage": "https://github.com/RubyRays/client-server-repo#readme"
+  "name": "client-server-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubyRays/client-server-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubyRays/client-server-repo/issues"
+  },
+  "homepage": "https://github.com/RubyRays/client-server-repo#readme"
 }
