@@ -6,7 +6,7 @@ function Status(){
             <div className="rows ">
                 <div className="status-box">
                     <div className=" status-box-inner">
-                        <img class="image-style" src="images/status/Bar.png" alt="certificates background" ></img>
+                        <img className="image-style" src="images/status/Bar.png" alt="certificates background" ></img>
                     </div>
                     <div className="status-box-top">
                         <div className="status-title">
@@ -34,7 +34,7 @@ function Status(){
                 
                 <div className="status-box">
                     <div className=" status-box-inner">
-                        <img class="image-style" src="images/status/Coffee.png" alt="Education background" />
+                        <img className="image-style" src="images/status/Coffee.png" alt="Education background" />
                     </div>
                     <div className="status-box-top">
                         <div className="status-title">

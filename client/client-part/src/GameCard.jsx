@@ -6,7 +6,7 @@ function GameCard(props){
         
         <div className="card1">
             <div className="card-body">
-                <img class="image-style" src={props.imgURL} alt={props.title} />
+                <img className="image-style" src={props.imgURL} alt={props.title} />
                 <h1>{props.title}</h1>
                 <p>{props.content}</p>
             </div>
